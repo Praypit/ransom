@@ -212,7 +212,7 @@ banner() {
 		${ORANGE}  ║║──║║║╔╗║╚═╝║╚╝║║╚╗ 
 		${ORANGE}  ╚╝──╚╝╚╝╚╩═╗╔╣╔═╩╩═╝                                    
 		${ORANGE}  ─────────╔═╝║║║
-                ${ORANGE}  ─────────╚══╝╚╝        ${RED}Version : ${__version__}
+                ${ORANGE}  ─────────╚══╝╚╝${RED}Version : ${__version__}
                   
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
@@ -224,7 +224,7 @@ banner_small() {
 	cat <<- EOF
 		${BLUE}
 		${BLUE} █▀█ █▀█ ▄▀█ █▄█ █▀█ █ ▀█▀
-                ${BLUE} █▀▀ █▀▄ █▀█ ░█░ █▀▀ █ ░█░       ${WHITE} ${__version__}
+                ${BLUE} █▀▀ █▀▄ █▀█ ░█░ █▀▀ █ ░█░${WHITE} ${__version__}
 		
 		
 	EOF
