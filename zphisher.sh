@@ -205,17 +205,15 @@ banner() {
 	cat <<- EOF
 		${ORANGE} 
 		${ORANGE}                
-		${ORANGE}  ╔═══╗────────────╔╗            
-		${ORANGE}  ║╔═╗║───────────╔╝╚╗   
-		${ORANGE}  ║╚═╝╠═╦══╦╗─╔╦══╬╗╔╝
-		${ORANGE}  ║╔══╣╔╣╔╗║║─║║╔╗╠╣║
-		${ORANGE}  ║║──║║║╔╗║╚═╝║╚╝║║╚╗ 
-		${ORANGE}  ╚╝──╚╝╚╝╚╩═╗╔╣╔═╩╩═╝                                    
-		${ORANGE}  ─────────╔═╝║║║
-                ${ORANGE}  ─────────╚══╝╚╝
-                  
-
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${ORANGE}╔═══╗────────────╔╗            
+		${ORANGE}║╔═╗║───────────╔╝╚╗   
+		${ORANGE}║╚═╝╠═╦══╦╗─╔╦══╬╗╔╝
+		${ORANGE}║╔══╣╔╣╔╗║║─║║╔╗╠╣║
+		${ORANGE}║║──║║║╔╗║╚═╝║╚╝║║╚╗ 
+		${ORANGE}╚╝──╚╝╚╝╚╩═╗╔╣╔═╩╩═╝                                    
+		${ORANGE}─────────╔═╝║║║
+                ${ORANGE}─────────╚══╝╚╝
+                ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Abhi thakur (advance fishing tool)${WHITE}
 	EOF
 }
 
