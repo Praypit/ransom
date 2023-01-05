@@ -212,7 +212,8 @@ banner() {
 		${ORANGE}║║──║║║╔╗║╚═╝║╚╝║║╚╗ 
 		${ORANGE}╚╝──╚╝╚╝╚╩═╗╔╣╔═╩╩═╝                                    
 		${ORANGE}─────────╔═╝║║║
-                ${ORANGE}─────────╚══╝╚╝
+                ${ORANGE}─────────╚══╝╚╝                ${RED}Version : ${__version__}
+
                 ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Abhi thakur (advance fishing tool)${WHITE}
 	EOF
 }
