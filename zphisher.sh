@@ -212,7 +212,7 @@ banner() {
 		${ORANGE}  ║║──║║║╔╗║╚═╝║╚╝║║╚╗ 
 		${ORANGE}  ╚╝──╚╝╚╝╚╩═╗╔╣╔═╩╩═╝                                    
 		${ORANGE}  ─────────╔═╝║║║
-                ${ORANGE}  ─────────╚══╝╚╝${RED}Version : ${__version__}
+                ${ORANGE}  ─────────╚══╝╚╝
                   
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
